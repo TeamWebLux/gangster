@@ -1,2 +1,0 @@
-# gangster
-An Gaming Platform
